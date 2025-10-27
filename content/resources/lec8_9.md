@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture summary on developing a model to determine how construction materials
   affect inside temperature and heat loss in a small house.
 file: /courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/501c6576c7cdc411ae6ef3892ee92baf_lec8_9.pdf
+file_size: 87010
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

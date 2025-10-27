@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on allocating agricultural water to maximize profits, subject
   to environmental constraints.
 file: /courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/6b5fc7f65f22684cc6d0b7903aa9276a_assn6.pdf
+file_size: 98071
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Practice questions and solutions for the second exam of the course.
 file: /courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/958a0c71aabb78069b7e7bdb73a7be5f_practice2.pdf
+file_size: 220391
 file_type: application/pdf
 learning_resource_types:
 - Exams

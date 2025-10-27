@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set on evaluating the energy performance of a house using a MATLAB
   model.
 file: /courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/4559df843c3e191fe8a53141f11723db_assn3.pdf
+file_size: 127813
 file_type: application/pdf
 learning_resource_types:
 - Assignments

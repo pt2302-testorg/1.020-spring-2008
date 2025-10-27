@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture summary on extending the house energy model to account for radiation
   to and from roof. Reviews effect of building materials on energy loss.
 file: /courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/12374759a0d4f5d33142191462688c7f_lec10.pdf
+file_size: 88288
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
